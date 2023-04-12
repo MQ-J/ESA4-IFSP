@@ -10,11 +10,11 @@ import Home from './Home';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/ESA4-IFSP/",
     element: <App/>,
   },
   {
-    path: "sistem/:user",
+    path: "/ESA4-IFSP/sistem/:user",
     element: <Home/>,
   },
 ]);
