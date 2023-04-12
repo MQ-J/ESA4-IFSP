@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ESA4-IFSP/static/css/main.40034d21.css",
+    "main.js": "/ESA4-IFSP/static/js/main.6cd861f4.js",
+    "index.html": "/ESA4-IFSP/index.html",
+    "main.40034d21.css.map": "/ESA4-IFSP/static/css/main.40034d21.css.map",
+    "main.6cd861f4.js.map": "/ESA4-IFSP/static/js/main.6cd861f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40034d21.css",
+    "static/js/main.6cd861f4.js"
+  ]
+}
